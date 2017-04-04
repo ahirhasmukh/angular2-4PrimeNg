@@ -4,7 +4,9 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import {
   AccordionModule,
-  SharedModule
+  SharedModule,
+  DragDropModule,
+  PanelModule
 } from 'primeng/primeng';     //accordion and accordion tab
 
 import { AppComponent } from './app.component';
@@ -18,7 +20,9 @@ import { AppComponent } from './app.component';
     FormsModule,
     HttpModule,
     AccordionModule,
-    SharedModule
+    SharedModule,
+    DragDropModule,
+    PanelModule
   ],
   providers: [],
   bootstrap: [AppComponent]

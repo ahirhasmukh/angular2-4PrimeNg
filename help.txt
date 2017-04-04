@@ -1,4 +1,3 @@
 PrimeNG:
-
 https://www.primefaces.org/primeng/#/accordion
 https://github.com/primefaces/primeng/issues
